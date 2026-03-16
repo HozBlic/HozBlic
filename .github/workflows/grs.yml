@@ -35,7 +35,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: username=${{ github.repository_owner }}&theme=transparent&layout=compact
+          options: username=${{ github.repository_owner }}&theme=transparent&layout=compact&display_format=percent
           path: profile/wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
