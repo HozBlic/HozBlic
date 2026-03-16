@@ -19,7 +19,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent&hide=issues,contribs&hide_rank=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent&hide=issues,contribs,prs&hide_rank=true&exclude_repo=HozBlic
           path: profile/stats.svg
           token: ${{ secrets.PAT }}
 
