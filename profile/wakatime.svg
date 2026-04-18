@@ -129,16 +129,33 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="464.02350000000007"
+            width="445.935"
             height="8"
             fill="#f1e05a"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="445.935"
+            y="0"
+            width="17.9025"
+            height="8"
+            fill="#858585"
           />
         
       
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript - 99.79 %
+        JavaScript - 95.90 %
+      </text>
+    </g>
+  
+    <g transform="translate(230, 25)">
+      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Text - 3.85 %
       </text>
     </g>
   
