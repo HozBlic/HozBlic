@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">HozBlic's GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 6, Total Commits  (last year) : 160</desc>
+        <title id="titleId">HozBlic's GitHub Stats, Rank: C+</title>
+        <desc id="descId">Total Stars Earned: 6, Total Commits  (last year) : 244</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 223.7214044964044;
+        stroke-dashoffset: 218.13667431480215;
       }
     }
   
@@ -166,7 +166,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >160</text>
+      >244</text>
     </g>
   </g>
     </svg>
