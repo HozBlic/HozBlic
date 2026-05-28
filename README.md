@@ -9,14 +9,14 @@
 <hr>
 
 <p>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <sub>
      Powered by late night coding and Red Bull - support is appreciated! 
   </sub>
 </p>
 <p>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://ko-fi.com/C0C71ZJ4OT">
-    <img src="images/button.svg" style="height:35px;" />
+    <img src="images/button.svg" style="height:30px;" />
   </a>
 </p>
