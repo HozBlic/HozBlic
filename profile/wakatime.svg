@@ -1,8 +1,8 @@
 
       <svg
         width="495"
-        height="140"
-        viewBox="0 0 495 140"
+        height="165"
+        viewBox="0 0 495 165"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="298.158"
+            width="329.12699999999995"
             height="8"
             fill="#f1e05a"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="298.158"
+            x="329.12699999999995"
             y="0"
-            width="90.2565"
+            width="46.453500000000005"
             height="8"
             fill="#3572A5"
           />
@@ -147,32 +147,66 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="388.41450000000003"
+            x="375.5805"
             y="0"
-            width="76.5855"
+            width="45.38399999999999"
             height="8"
             fill="#e34c26"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="420.9645"
+            y="0"
+            width="29.666999999999998"
+            height="8"
+            fill="#292929"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="450.63149999999996"
+            y="0"
+            width="12.276000000000002"
+            height="8"
+            fill="#9c4221"
           />
         
       
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript - 64.12 %
+        JavaScript - 70.78 %
       </text>
     </g>
   
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python - 19.41 %
+        Python - 9.99 %
       </text>
     </g>
   
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML - 16.47 %
+        HTML - 9.76 %
+      </text>
+    </g>
+  
+    <g transform="translate(230, 50)">
+      <circle cx="5" cy="6" r="5" fill="#292929" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        JSON - 6.38 %
+      </text>
+    </g>
+  
+    <g transform="translate(25, 75)">
+      <circle cx="5" cy="6" r="5" fill="#9c4221" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        TOML - 2.64 %
       </text>
     </g>
   
